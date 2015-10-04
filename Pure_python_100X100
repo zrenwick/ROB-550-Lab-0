@@ -1,0 +1,21 @@
+Mon Sep 14 22:48:51 2015    Pure_python_100X100
+
+         20427 function calls in 0.439 seconds
+
+   Ordered by: standard name
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.006    0.006    0.439    0.439 matmult-pure.py:3(<module>)
+        1    0.421    0.421    0.424    0.424 matmult-pure.py:7(matrixMult)
+        1    0.000    0.000    0.000    0.000 string.py:351(find)
+        7    0.000    0.000    0.000    0.000 {len}
+        1    0.005    0.005    0.005    0.005 {method 'close' of 'file' objects}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        1    0.000    0.000    0.000    0.000 {method 'find' of 'str' objects}
+        2    0.000    0.000    0.000    0.000 {method 'read' of 'file' objects}
+      202    0.001    0.000    0.001    0.000 {method 'split' of 'str' objects}
+    10000    0.001    0.000    0.001    0.000 {method 'write' of 'file' objects}
+        3    0.001    0.000    0.001    0.000 {open}
+    10205    0.004    0.000    0.004    0.000 {range}
+        2    0.000    0.000    0.000    0.000 {time.time}
+
